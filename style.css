@@ -52,7 +52,7 @@
     width: 100%;
     aspect-ratio: 1/1;
     cursor: pointer;
-    color: red;
+    color: white;
     font-size: 3rem;
     display: flex;
     justify-content: center;
@@ -97,7 +97,7 @@
 @media screen and (max-width: 680px){
     .name{
         font-size: 2rem;
-        top: 13rem;
+        top: 11rem;
         position: absolute;
     }
     .game-info{
